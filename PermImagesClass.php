@@ -2,6 +2,7 @@
 require_once('db_params.php');
 class userImages
 {
+
   private $DATABASE = DBNAME;
   private $DBUSER = DBUSER;
   private $DBPASS = DBPASS;
